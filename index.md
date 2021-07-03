@@ -11,6 +11,8 @@ This is the beginning of a list of official and unofficial RubyConf 2017 events.
 * [6th Semi-Annual Rails Tutorial Beerware Night - 6:30PM](https://www.eventbrite.com/e/6th-semi-annual-rails-tutorial-beerware-night-tickets-39593852278)
 * St. Claude Swing Social - 8:30 pm
 
+* [6th Semi-Annual Rails Tutorial Beerware Night](https://www.eventbrite.com/e/6th-semi-annual-rails-tutorial-beerware-night-tickets-39593852278)
+
 #### Friday, November 17th, 2017
 
 #### Saturday, November 18th, 2017
